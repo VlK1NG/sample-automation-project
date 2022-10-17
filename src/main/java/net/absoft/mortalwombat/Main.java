@@ -1,4 +1,4 @@
-package org.example;
+package net.absoft.mortalwombat;
 
 public class Main {
     public static void main(String[] args) {
